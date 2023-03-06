@@ -14,7 +14,7 @@ Ps:适用于斐讯K3的LEDE/OpenWrt替换无线驱动(如果当前驱动足够�
 | brcmfmac4366c-pcie.bin_k3 | k3原厂,不支持密码,切记!!! |
 | brcmfmac4366c-pcie.bin_asus-dhd24 | ASUS 382.dhd24.ko提取 |
 | brcmfmac4366c-pcie.bin_69027 | 匿名,听说很nice! |
-
+| brcmfmac4366c-pcie.phicomm,k3.bin | 提取ac3100固件r666429 |
 
 
 
